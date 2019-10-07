@@ -31,6 +31,9 @@
 
 - (void)setUpUI {
     // 创建子view并布局
+    // 1、创建子view
+    // 2、添加子view
+    // 3、自动布局
 }
 
 

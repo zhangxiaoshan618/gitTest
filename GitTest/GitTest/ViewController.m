@@ -43,7 +43,7 @@
     // 4、自动布局
 }
 
-- (void) updateUI {
+- (void)updateUI {
     
 }
 

@@ -32,6 +32,7 @@
     // 2、发起网络请求
     // 3、处理返回的数据
     // 4、刷新UI
+    [self updateUI];
 }
 
 - (void)setUpUI {
